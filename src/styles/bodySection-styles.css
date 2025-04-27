@@ -1,0 +1,28 @@
+.section-container {
+  display: flex;
+  align-items: center; /* Vertically align items */
+  justify-content: space-between; /* Distribute space between text and icon */
+  padding: 10px;
+  font-size: 1.875em;
+}
+
+.background-primary {
+  background-color: #b8ecd7;
+}
+
+.background-secondary {
+  background-color: #cef09d;
+}
+
+.background-terciary {
+  background-color: #083643;
+}
+
+.text-side-left {
+  flex: 1; /* Allow text to take up remaining space */
+  padding-right: 10px; /* Add some spacing between text and icon */
+}
+
+.image-carousel {
+  height: 650px;
+}
