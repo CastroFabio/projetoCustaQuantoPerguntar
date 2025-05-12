@@ -149,16 +149,6 @@ function CountryRanking() {
     "Japão",
     "França",
     "Coreia do Sul",
-    "Austrália",
-    "México",
-    "Espanha",
-    "Rússia",
-    "Itália",
-    "Países Baixos",
-    "Suécia",
-    "Suíça",
-    "Turquia",
-    "África do Sul",
   ];
 
   return (
